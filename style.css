@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Syne Mono', monospace;
+}
+hr {
+    margin: 2% auto;
+}
+
+.button-21 {
+    background-color: rgb(22, 82, 193);
+    border-radius: 100px;
+    border-style: none;
+    color: aliceblue;
+    padding: 0.7%;
+    cursor: pointer;
+}
+img {
+ 
+    border-radius: 5px;
+    width: 60px;
+}
+hr {
+    width: 50%;
+    height: 1px;   
+}
+body {
+    text-align: center;     
+}
+.myol {
+    display: inline-block;
+    text-align: left;
+}
+.account {
+    margin-bottom: 2%;
+}
+table{
+    margin: auto;
+    width: 50%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    /* padding: 10px 20px; */
+    padding: 2%;
+    text-align: left;
+}
+td {
+    text-align: left;
+}
+.tabhead {
+    margin-bottom: 20px;
+}
