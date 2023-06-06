@@ -5,6 +5,13 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Syne Mono', monospace;
+    text-align: center;
+}
+form {
+    background-color: whitesmoke;
+    width:50% ;  
+    margin: 0 auto; 
+   
 }
 hr {
     margin: 2% auto;
@@ -54,3 +61,8 @@ td {
 .tabhead {
     margin-bottom: 20px;
 }
+.formcolor {
+    background-color: crimson;
+}
+
+

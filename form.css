@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+.form-hd{
+    padding-top: 78px;
+    padding-bottom: 20px;
+    padding-left: 10%;
+}
+form{
+    width: 50%;
+    margin: auto;
+    background-color: whitesmoke;
+    
+}
+.label-fw {
+    width: 30%;
+    display: inline-block;
+    padding: 15px;
+    padding-left:10% ;
+    
+}
+.input-fw, button {
+    width: 40%;
+    padding: 1%;
+    border-radius: 4px;
+}
+button{
+    background-color:  #155EEF;
+    color: white;
+    border: none;  
+}
